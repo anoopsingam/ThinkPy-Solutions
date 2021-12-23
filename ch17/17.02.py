@@ -3,6 +3,9 @@
 
 # Current Status: Complete
 
+#init method meaning 
+#The task of constructors is to initialize(assign values) to the data members of the class when an object of class is created. Like methods, a constructor also contains collection of statements(i.e. instructions) that are executed at time of Object creation.
+
 
 class Point(object):
     def __init__(self, x=0, y=0):
